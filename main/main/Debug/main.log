@@ -1,0 +1,8 @@
+﻿  AlgebraicExpression.cpp
+C:\Users\emrho\Desktop\cs201\main\main\AlgebraicExpression.cpp(19,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\emrho\Desktop\cs201\main\main\AlgebraicExpression.cpp(124,19): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+C:\Users\emrho\Desktop\cs201\main\main\AlgebraicExpression.cpp(189,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\emrho\Desktop\cs201\main\main\AlgebraicExpression.cpp(195,19): warning C4018: '>=': imzalı/imzasız uyuşmazlığı
+  main.cpp
+  Kod Üretiliyor...
+  main.vcxproj -> C:\Users\emrho\Desktop\cs201\main\Debug\main.exe
